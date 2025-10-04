@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing tennis!
 
-- Currently studying... SQL, F#, , Program Design, Cell Metabolism
+- Currently studying: SQL, F#, , Program Design, Cell Metabolism
