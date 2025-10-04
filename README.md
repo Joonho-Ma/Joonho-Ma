@@ -7,3 +7,5 @@
 - 📫 How to reach me: ... junhoma24@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing tennis!
+
+- Currently studying... SQL, F#, , Program Design, Cell Metabolism
