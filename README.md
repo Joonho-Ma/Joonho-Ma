@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-- 🌱 I’m currently studying at UIC, focusing on how to utilized AI in medical devices.
+- 🌱 I’m currently studying Computer Science at UIC, focusing on how to utilized AI in medical devices.
  
   Expected graduation: Dec2027
 - 👯 I’m looking to collaborate on people with similar interests
@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing tennis!
 
-- Currently studying: SQL, F#, Program Design, Cell Metabolism
+- Currently learning: SQL, F#, Program Design, Cell Metabolism
