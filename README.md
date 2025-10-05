@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with getting various experiences such as internships, researches
 - 💬 Ask me about C, C++, Python, and for sure the posted projects.
 - 📫 How to reach me: ... junhoma24@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing tennis!
 
 - Currently learning: SQL, F#, Program Design, Cell Metabolism
