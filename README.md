@@ -4,7 +4,7 @@
  
 - Expected graduation: Dec2027
 
-#Currently learning
+# Currently learning
 - SQL, F#, Program Design, Cell Metabolism
 
 # Projects
