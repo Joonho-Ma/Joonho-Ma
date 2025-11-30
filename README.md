@@ -9,7 +9,7 @@
 
 # Projects
 - OpenStreetMaps PathFinding  Link: https://github.com/Joonho-Ma/CS251-Project-6-OpenStreetMaps
-- Chicago Traffic Camera Analysis
+- Chicago Traffic Camera Analysis Link: https://github.com/Joonho-Ma/SQL-Chicago-Traffic-Camera-Analysis
 - Multi-Stage Python Game
 
 Contact me: junhoma24@gmail.com
