@@ -5,7 +5,7 @@
 - Expected graduation: Dec2027
 
 # Currently learning
-- SQL, F#, Program Design, Cell Metabolism
+- SQL, F#, GO, Program Design, Cell Metabolism
 
 # Projects
 - OpenStreetMaps PathFinding  Link: https://github.com/Joonho-Ma/CS251-Project-6-OpenStreetMaps
