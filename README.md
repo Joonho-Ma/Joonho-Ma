@@ -7,6 +7,10 @@
 # Currently learning
 - Java, Systems Programming, Genetics
 
+# Upcoming Focus
+- Machine Learning
+- Wearables and Nearables Technology
+
 # Projects
 - OpenStreetMaps PathFinding  Link: https://github.com/Joonho-Ma/CS251-Project-6-OpenStreetMaps
 - Chicago Traffic Camera Analysis Link: https://github.com/Joonho-Ma/SQL-Chicago-Traffic-Camera-Analysis
