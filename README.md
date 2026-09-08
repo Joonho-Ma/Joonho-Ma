@@ -7,12 +7,14 @@
 # Currently learning
 
 * Software Engineering
+* Computer Algorithms
 * Machine Learning
-* Computer Vision and Image Processing
+* Computer Vision
 
 # Upcoming Focus
 
 * Machine Learning
+* Computer Vision and Image Processing
 * Wearables and Nearables Technology
 
 # Projects
